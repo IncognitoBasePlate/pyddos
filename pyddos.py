@@ -1,7 +1,7 @@
 #!/usr/bin/env python2
 
 version= '2.0'
-title = '''
+title = 'negro'
 
       _ \        __ \  __ \               ___|           _)       |   
      |   | |   | |   | |   |  _ \   __| \___ \   __|  __| | __ \  __|  
